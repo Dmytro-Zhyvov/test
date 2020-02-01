@@ -1,3 +1,5 @@
 # test
-The first change of the file - local.
+
+The first change of the file - local remote.
+
 The second commit of the file.
